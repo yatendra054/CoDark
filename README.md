@@ -2,12 +2,10 @@
 Combat deceptive website design and empower your online experience with CoDark, a powerful Chrome extension.
 
 Developed by:
-
-1. Shaurya Vardhan Mishra
-2. Yatendra Pachori
-3. Yagyadeep Ahirwar
-4. Vivek Vaibhav
-5. Nihal Patidar
+1. Yatendra Pachori
+2. Yagyadeep Ahirwar
+3. Vivek Vaibhav
+4. Nihal Patidar
 
 **Protect Yourself from Dark Patterns:**
 
